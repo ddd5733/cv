@@ -1,0 +1,33 @@
+h1 {
+  font-size: 150px;
+  color: red;
+}
+
+body {
+  background-color: #ecf0f1;
+}
+
+p {
+  color: #e74c3c;
+}
+img{
+  background-color: red;
+}
+img:hover{
+  background-color: gold;
+}
+
+/*************************CLASS SELECTER********************/
+
+.broccoli{
+  background-color: red;
+}
+.bacon{
+  background-color: green;
+}
+.circular{
+  border-radius: 100%;
+}
+
+
+/*************************ID SELECTER********************/
